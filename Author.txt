@@ -1,4 +1,10 @@
+CREDIT:
 Name: Drew
 Discord: Drew™️#0001
 Github Link: https://github.com/drewallgood
 Discord Server: https://discord.gg/rvhnAUbpbg
+
+Originally it didn't work when placed into a FiveM server and started, so I moved a few files around and changed the __resource.lua to make things work.
+FORKED AND EDITED BY: jedvod
+Name: Jed
+Github Link: https://github.com/jedvod
